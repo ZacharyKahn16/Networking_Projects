@@ -1,0 +1,1 @@
+This program makes a HEAD request followed by a GET request to obtain the contents located at a given url. The number of threads to be used to obtain all the data can be specified, and will be used if range requests are supported. The contents obtained are written to a file in the working directory with the same name as the file given in the url.

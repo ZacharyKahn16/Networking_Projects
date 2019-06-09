@@ -1,0 +1,2 @@
+#!/bin/bash
+sftp -i ~/.ssh/cybera.key -o "ServerAliveInterval 60" ubuntu@19199.yyc.cybera.ca

@@ -1,13 +1,7 @@
 /**
  * KeepaliveTimer Class
  *
- * CPSC 441
- * Assignment 4
- *
  * @author 	Zachary Kahn
- *
- * UCID: 10151534
- * Tutorial: T01
  *
  * Timer that is executed when the local router needs to broadcast a keepalive
  * message.

@@ -1,13 +1,7 @@
 /**
  * TimeoutHandler Class
  *
- * CPSC 441
- * Assignment 3
- *
  * @author 	Zachary Kahn
- *
- * UCID: 10151534
- * Tutorial: T01
  *
  * When the timer for the oldest unACKed segment times out all segments in the
  * queue must be retransmitted. This class calls the processTimeout method upon,

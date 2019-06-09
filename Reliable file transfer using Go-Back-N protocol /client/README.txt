@@ -1,8 +1,6 @@
 
 FastFtp Driver
 
-Author: Majid Ghaderi
-
 Running the driver:
 ==============
 The following scripts can be used to compile and run the driver

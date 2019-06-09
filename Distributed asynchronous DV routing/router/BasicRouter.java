@@ -5,9 +5,6 @@
  * which implements asynchronous distance-vector
  * routing algorithm.
  * 
- * CPSC 441
- * Assignment 4
- *
  * @author 	Majid Ghaderi
  * @version	2019
  *

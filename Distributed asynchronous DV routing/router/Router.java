@@ -1,17 +1,11 @@
 /**
  * Router Class
  *
- * CPSC 441
- * Assignment 4
- *
  * @author 	Zachary Kahn
- *
- * UCID: 10151534
- * Tutorial: T01
  *
  * A router with a unique name listens on a specified port number of other
  * neighbors in the network. The router is configured to broadcast to all links
- * that connect to it, and will periodically broad cast its local DV to let
+ * that connect to it, and will periodically broadcast its local DV to let
  * its neighbors know it is alive. To learn about other nodes in the network
  * the Bellman-Ford algorithm is implemented. If neighboring nodes become
  * inactive, they are removed from the local DV table. The maximum allowable

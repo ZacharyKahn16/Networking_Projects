@@ -1,13 +1,7 @@
 /**
  * InactivityTimer Class
  *
- * CPSC 441
- * Assignment 4
- *
  * @author 	Zachary Kahn
- *
- * UCID: 10151534
- * Tutorial: T01
  *
  * Timer that is executed when a neighboring router has not responded within
  * the inactivityInterval time window.

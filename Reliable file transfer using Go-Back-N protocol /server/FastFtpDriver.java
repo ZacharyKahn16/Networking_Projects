@@ -2,9 +2,6 @@
 /**
  * A simple driver for FastFtp class
  *
- * CPSC 441
- * Assignment 3
- *
  * @author 	Majid Ghaderi
  * @version 2019
  *

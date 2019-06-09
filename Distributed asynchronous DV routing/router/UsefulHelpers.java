@@ -1,13 +1,7 @@
 /**
  * UsefulHelpers Class
  *
- * CPSC 441
- * Assignment 4
- *
  * @author 	Zachary Kahn
- *
- * UCID: 10151534
- * Tutorial: T01
  *
  * Some useful methods that are used by other parts of the program are
  * placed here.

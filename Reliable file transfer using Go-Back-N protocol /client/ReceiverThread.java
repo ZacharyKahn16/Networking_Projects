@@ -1,13 +1,7 @@
 /**
  * ReceiverThread Class
  *
- * CPSC 441
- * Assignment 3
- *
  * @author 	Zachary Kahn
- *
- * UCID: 10151534
- * Tutorial: T01
  *
  * Receives acknowledgements from the server and removes ACKed segments from
  * the queue by calling processACK.

@@ -1,13 +1,7 @@
 /**
  * FastFtp Class
  *
- * CPSC 441
- * Assignment 3
- *
  * @author 	Zachary Kahn
- *
- * UCID: 10151534
- * Tutorial: T01
  *
  * Simplified FTP client based on UDP that provides reliable data transfer using
  * Go-Back-N. This class establishes a connection using a TCP handshake with a UDP
